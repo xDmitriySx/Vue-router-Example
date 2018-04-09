@@ -37,4 +37,11 @@ components: {
 
 <style>
 
+#back_to_owl{
+  font-style: italic;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
 </style>

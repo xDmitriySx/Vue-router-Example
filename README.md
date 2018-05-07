@@ -1,6 +1,7 @@
 # rout
 
-> A Vue.js project
+> This mini-project demonstrate how works vue-router:
+https://router-example-on-vuejs.firebaseapp.com/
 
 ## Build Setup
 
